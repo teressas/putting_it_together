@@ -1,3 +1,6 @@
+## Description
+
+Using the same assignment as the Prop It Up assignment, I created a birthday button that will increase one person's age by one to practice using props and state.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
